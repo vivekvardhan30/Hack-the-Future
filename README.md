@@ -1,5 +1,5 @@
 # Hack-the-Future
-<h1>Sustainable Agriculture through Multi-Agent Al Collaboration</h1><br>
+<h3>Sustainable Agriculture through Multi-Agent Al Collaboration</h3><br>
 <p>We propose a multi-agent Al system built using Python and SQLite that brings
 together diverse stakeholders—farmers, market analysts, weather data, and
 environmental experts—into a unified decision-making platform. The system will
